@@ -1,0 +1,27 @@
+/*Connect 4: style.css*/
+
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin:0;
+    padding: 0;
+}
+html, body {
+    width:100%;
+}
+section {
+    width: 640px;
+    margin: 1em auto 0 auto;
+}
+header, footer {
+    text-align: center;
+    font-family: Arial;
+    color: #111;
+}
+header {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+footer {
+    font-size: .8em;
+}
